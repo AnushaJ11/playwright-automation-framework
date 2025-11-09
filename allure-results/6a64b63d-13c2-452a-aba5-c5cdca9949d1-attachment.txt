@@ -1,0 +1,4 @@
+Exception occurred while clicking 'Register': Error: locator.click: Test timeout of 30000ms exceeded.
+Call log:
+  - waiting for getByLabel('Register')
+
